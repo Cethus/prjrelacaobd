@@ -1,0 +1,17 @@
+body{
+  background-color: #CFCFCF;
+}
+.calc{
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 20px;
+	background-color: lightblue;
+}
+h1{
+	background-color: white;
+
+}
+.botao{
+	font-size: 40px;
+	height: 80px;	
+}
